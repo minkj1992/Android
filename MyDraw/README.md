@@ -3,7 +3,7 @@
 ## 모르는 개념
 
 - `inflater` 
-- `ArrayAdapter`
-- `FragmentManager`
+- `ArrayAdapter` v
+- `FragmentManager` 
 - `savedInstanceState` v
 
