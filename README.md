@@ -1,7 +1,5 @@
-# Camera1 && Preview
-- 카메라
-- SurfaceView를 활용한, 미리보기 지원
+# 2019 모바일 프로그래밍 안드로이드
 
-# TODO
-- firebase or local에 저장하기
-- 갤러리 보여주기 (GRID 형식)
+- `MyDraw`: `Fragment` (영단어리스트, 단어 뜻)
+- `TakePhoto`: `Intent`를 활용한 기본 camera app 활용 사진 찍기 및 갤러리 저장
+- `MyCapture`: `SurfaceView`를 활용한 카메라 preview 제공 및, snapshot 보여주기
